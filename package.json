@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-no-repeated-nesting",
+  "version": "1.0.0",
+  "description": "Prevent wrong nesting of elements or modifiers inside one another.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinkist/stylelint-no-repeated-nesting.git"
+  },
+  "author": "Blinkist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blinkist/stylelint-no-repeated-nesting/issues"
+  },
+  "homepage": "https://github.com/blinkist/stylelint-no-repeated-nesting#readme"
+}
