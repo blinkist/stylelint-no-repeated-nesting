@@ -1,0 +1,1 @@
+# stylelint-no-repeated-nesting
