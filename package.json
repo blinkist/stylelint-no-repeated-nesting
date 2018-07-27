@@ -1,6 +1,6 @@
 {
   "name": "stylelint-no-repeated-nesting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prevent wrong nesting of elements or modifiers inside one another.",
   "main": "index.js",
   "directories": {
