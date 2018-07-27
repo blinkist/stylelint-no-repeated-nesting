@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blinkist/stylelint-no-repeated-nesting/issues"
   },
-  "homepage": "https://github.com/blinkist/stylelint-no-repeated-nesting#readme"
+  "homepage": "https://github.com/blinkist/stylelint-no-repeated-nesting#readme",
+  "dependencies": {
+    "stylelint": "^9.4.0"
+  }
 }
