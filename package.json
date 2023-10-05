@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/blinkist/stylelint-no-repeated-nesting#readme",
   "dependencies": {
-    "stylelint": "^13.2.0"
+    "stylelint": "^15.10.3"
   }
 }
